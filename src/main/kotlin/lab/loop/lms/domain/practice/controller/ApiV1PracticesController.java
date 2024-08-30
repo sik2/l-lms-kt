@@ -7,5 +7,5 @@ import org.springframework.web.bind.annotation.RestController;
 @RestController
 @RequiredArgsConstructor
 @RequestMapping("/api/v1/practices")
-public class ApiV1PracticeController {
+public class ApiV1PracticesController {
 }
